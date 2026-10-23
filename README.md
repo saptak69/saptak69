@@ -1,105 +1,194 @@
 <div align="center">
 
-  <!-- Header Banner / Dynamic Typing SVG -->
-  <a href="https://github.com/saptak69">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=550&height=70&lines=Hey+there!+%F0%9F%91%8B+I'm+Saptak+Mondal;CS+Engineer+%26+Full+Stack+Builder;Turning+ideas+into+real+world+apps;Always+building%2C+learning%2C+and+shipping!" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <b>CS Engineer who likes turning ideas into things people can actually use.</b><br />
-    <i>Building full-stack apps, experimenting with modern architectures, and crafting sleek digital experiences.</i>
-  </p>
-
-  <!-- Profile Views Counter & Followers Badges -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=saptak69&style=for-the-badge&color=00f5d4" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/saptak69?label=Followers&style=for-the-badge&color=7b2cbf" alt="Followers" />
-  </p>
-
-  <!-- Social Links -->
-  <p align="center">
-    <a href="mailto:saptakmondal2004@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/saptak69/Saptak_Mondal_Portfolio" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://linkedin.com/in/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
-</div>
+<!-- Animated greeting -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Saptak+Mondal+%F0%9F%91%8B;Full+Stack+Developer+from+Kolkata+%F0%9F%87%AE%F0%9F%87%B3;Building+things+people+actually+use+%F0%9F%9A%80;Open+to+SDE+Roles+%E2%80%94+Let%27s+Connect!" alt="Typing SVG" />
 
 <br />
 
----
+<!-- Status badges -->
+<a href="https://saptak-mondal-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/saptak-mondal-448b8b40b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:saptakmondal.official@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://x.com/Saptak_Mondal_" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
+</a>
+<img src="https://img.shields.io/badge/Open%20to%20Work-%2300C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/>
 
-### 🚀 About Me
+<br/><br/>
 
-- 🔭 **Currently Building:** Modern web applications, scalable backends, and creative interactive platforms.
-- 🌱 **Deepening Knowledge In:** Advanced full-stack development, distributed systems, and AI integration.
-- 💬 **Ask Me About:** JavaScript/TypeScript, React, Node.js, REST APIs, and Database Design.
-- ⚡ **Philosophy:** *"Build fast, learn continuously, and create software that solves real problems."*
-- 🎯 **Goals for 2026:** Expanding open-source footprints, launching full-stack products, and collaborating with global devs.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-#### 💻 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css" alt="Languages" />
-
-#### 🌐 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" alt="Frameworks" />
-
-#### 🗄️ Databases & Cloud Services
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,appwrite,docker" alt="Databases and Cloud" />
-
-#### ⚙️ Developer Tools & Environment
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman" alt="Developer Tools" />
+![Profile Views](https://komarev.com/ghpvc/?username=saptak69&color=6C63FF&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-### 🌟 Featured Projects
+## 🧑‍💻 About Me
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🛍️ **[Mangrove](https://github.com/saptak69/Mangrove)** | Full-stack e-commerce web platform with product discovery and cart management. | `JavaScript` `Node.js` `Express` `MongoDB` |
-| 💰 **[Pennywise](https://github.com/saptak69/Pennywise)** | Personal finance & expense management tool to keep track of every penny. | `JavaScript` `Full Stack` `Web` |
-| 🎬 **[PlotHole](https://github.com/saptak69/PlotHole)** | Cinephile community platform & movie discovery portal with community reviews. | `JavaScript` `API` `CSS` |
-| 🎵 **[Sonara](https://github.com/saptak69/Sonara)** | Modern streaming application for seamless music playback and audio discovery. | `TypeScript` `Web Audio` `React` |
-| 🎯 **[Pulse](https://github.com/saptak69/Pulse)** | Intuitive habit & hobby tracker to monitor consistency and personal goals. | `TypeScript` `Frontend` |
-| 🎪 **[Puja Parikrama](https://github.com/saptak69/puja-parikrama)** | Interactive festive planner for mapping out pandal routes and festival journeys. | `JavaScript` `CSS` `Web` |
+> *CS Engineer who likes turning ideas into things people can actually use.*
+
+- 🏙️ Based in **Kolkata, India**
+- 🔭 Currently working on **Sonara** — a full-stack music streaming platform
+- 🌱 Deep-diving into **system design**, **TypeScript**, and **AI integrations**
+- 🎯 Actively seeking **SDE / Full Stack Developer** roles
+- ⚡ Fun fact: I break things on purpose to understand how they work
 
 ---
 
-### 📊 GitHub Analytics
+## 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎵 <a href="https://sonara-murex.vercel.app">Sonara</a></h3>
+      <p>Full-stack music streaming platform with playlist management, audio playback, and a clean, Spotify-inspired UI.</p>
+      <p><strong>Stack:</strong> TypeScript · React · Node.js · MongoDB</p>
+      <a href="https://github.com/saptak69/Sonara">
+        <img src="https://img.shields.io/badge/Repo-6C63FF?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://sonara-murex.vercel.app">
+        <img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>💬 <a href="https://nexus-chat-iota-dun.vercel.app">Nexus</a></h3>
+      <p>Real-time chat application built with Java — featuring live messaging, user authentication, and responsive UI.</p>
+      <p><strong>Stack:</strong> Java · WebSockets · Vercel</p>
+      <a href="https://github.com/saptak69/Nexus">
+        <img src="https://img.shields.io/badge/Repo-6C63FF?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://nexus-chat-iota-dun.vercel.app">
+        <img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🛒 <a href="https://github.com/saptak69/Mangrove">Mangrove</a></h3>
+      <p>Full-stack eCommerce platform with product listings, cart, and checkout flow — built end to end.</p>
+      <p><strong>Stack:</strong> JavaScript · React · Node.js · Express</p>
+      <a href="https://github.com/saptak69/Mangrove">
+        <img src="https://img.shields.io/badge/Repo-6C63FF?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🎬 <a href="https://plot-hole.vercel.app">PlotHole</a></h3>
+      <p>Community platform for cinephiles — browse, review, and discuss movies with fellow film lovers.</p>
+      <p><strong>Stack:</strong> JavaScript · React · REST APIs</p>
+      <a href="https://github.com/saptak69/PlotHole">
+        <img src="https://img.shields.io/badge/Repo-6C63FF?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://plot-hole.vercel.app">
+        <img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💰 <a href="https://pennywise-rosy.vercel.app">Pennywise</a></h3>
+      <p>Expense tracker that helps you manage every penny — visualise your spending and take control of your finances.</p>
+      <p><strong>Stack:</strong> JavaScript · React · Chart.js</p>
+      <a href="https://github.com/saptak69/Pennywise">
+        <img src="https://img.shields.io/badge/Repo-6C63FF?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://pennywise-rosy.vercel.app">
+        <img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🗺️ <a href="https://pujaparikrama.online">Puja Parikrama</a></h3>
+      <p>Web app to plan the perfect Durga Puja journey — discover pandals, generate smart itineraries, and explore interactive maps.</p>
+      <p><strong>Stack:</strong> CSS · JavaScript · Maps API</p>
+      <a href="https://github.com/saptak69/puja-parikrama">
+        <img src="https://img.shields.io/badge/Repo-6C63FF?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://pujaparikrama.online">
+        <img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=saptak69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00f5d4&text_color=9ece6a&icon_color=7aa2f7&bg_color=1a1b26" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptak69&layout=compact&theme=tokyonight&hide_border=true&title_color=00f5d4&text_color=9ece6a&bg_color=1a1b26" width="48%" alt="Top Languages" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=saptak69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptak69&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-  <br />
+<br/>
 
-  <img src="https://streak-stats.demolab.com/?user=saptak69&theme=tokyonight&hide_border=true&stroke=00f5d4&ring=7aa2f7&fire=ff007f&currStreakLabel=00f5d4" width="97%" alt="Streak Stats" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=saptak69&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=saptak69&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-### 💡 Daily Inspiration
+## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+  <img src="https://raw.githubusercontent.com/saptak69/saptak69/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<br />
+---
+
+## 📬 Let's Connect
+
+I'm actively looking for **SDE / Full Stack Developer** roles. If you're building something exciting or hiring, let's talk!
 
 <div align="center">
-  <sub>Designed with ❤️ by <a href="https://github.com/saptak69">@saptak69</a></sub>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://saptak-mondal-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saptak-mondal-448b8b40b)
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Saptak_Mondal_)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saptakmondal.official@gmail.com)
+
+</div>
+
+<div align="center">
+  <i>"The best way to predict the future is to build it."</i>
 </div>
